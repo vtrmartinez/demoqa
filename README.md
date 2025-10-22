@@ -29,7 +29,7 @@ Installing and setting up, to execute the web tests using Playwright with Javasc
 
  # Run the tests - CI Pipeline
 
-- The CI pipeline on GitLab will be executed after every commit or, you can run it manually through the GitLab interface by clicking on Build > Pipelines > Run Pipeline.
+- The CI pipeline on GitHub will be executed after every commit, or you can run it manually through the Actions option.
 
 <br>   
 		
